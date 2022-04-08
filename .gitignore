@@ -3,3 +3,4 @@ my-grep
 my-zip
 my-unzip
 *.o
+*.z
